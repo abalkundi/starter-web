@@ -10,7 +10,11 @@ This is example to show different ports of the GIT repository and various comman
 
 ## Purpose
 
+As stated above main purpose is for experimentation
+
 ##Deployment 
+
+simple web project 
 
 Sample website with plenty of files for demos
 
