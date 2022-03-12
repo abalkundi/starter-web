@@ -6,6 +6,8 @@ checking all the GIT class experiments
 
 ##Introduction
 
+This is example to show different ports of the GIT repository and various commands using a web project"
+
 ## Purpose
 
 ##Deployment 
