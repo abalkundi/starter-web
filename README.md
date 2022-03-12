@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example.
 
 checking all the GIT class experiments
 
@@ -23,3 +23,4 @@ Sample website with plenty of files for demos
 
 ##Copyright notice
 2022 Git training
+
