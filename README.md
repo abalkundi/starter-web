@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+checking all the GIT class experiments
+
 ##Introduction
 
 ## Purpose
