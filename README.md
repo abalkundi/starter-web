@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding a line for rebasing example, more changes from myfeature branch too. Emeergency 
+This repository is for showing how Git and GitHub work. Adding a line for rebasing example, more changes from myfeature branch too. Emeergency asdlkasdlkasda;s
 
 checking all the GIT class experiments
 
