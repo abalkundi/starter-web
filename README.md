@@ -19,3 +19,6 @@ simple web project
 Sample website with plenty of files for demos
 
 ##How to contribute
+
+##Copyright notice
+2022 Git training
